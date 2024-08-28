@@ -7,6 +7,7 @@ package ejeciciopersona;
 /**
  *
  * @author vina
+ * @version 27-08-2024
  */
 public class Condiciones {
     
